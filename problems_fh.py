@@ -13,7 +13,7 @@ s.write(dataf[1])
 f.close()
 d.close()
 s.close()
------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 ###Q== WAP TO READ DATA FROM TXT FILE AND COUNT ALL THE WORDS HAVING "t" AS LAST CHARACTERS.[TAKE FILE=story.txt]
 a=open("story.txt","r")
 data = a.read()
