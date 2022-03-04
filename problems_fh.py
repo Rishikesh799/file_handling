@@ -27,7 +27,7 @@ print(co)
 a.close()
 print(a.closed)
 ----------------------------------------------------------------------------------------------------------------------
-###Q==WAP TO READ DATA FROM TXT FILEAND DISPLAY AND COUNT ALL THE LINES HAVING "t" AS LAST CHARACTERS.[TAKE FILE=story.txt]
+###Q==WAP TO READ DATA From TXT FILEAND DISPLAY AND COUNT ALL THE LINES HAVING "t" AS LAST CHARACTERS.[TAKE FILE=story.txt]
 a=open("story.txt")
 data=a.readlines()
 print(data)
