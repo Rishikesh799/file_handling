@@ -1,5 +1,5 @@
 """
-###Q== PROGRAME TO COMBINE ANY LINE FROM FIRST FILE WITH SECOND FILE
+###Q== PROGRAME TO COMBINE ANY LINE FROM FIRST FILE WITH SECOND file.
 
 f=open("story.txt","r",newline="")
 d=open("rishi.txt","r",newline="")
